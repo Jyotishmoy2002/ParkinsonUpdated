@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+pinecone
+langchain
+langchain-community
+openai
+pydantic
+pytest
+httpx
